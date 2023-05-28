@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu May 25 07:33:15 2023
-
+Clase genera la conexion a la BD Redshift
 @author: danie
 """
 
